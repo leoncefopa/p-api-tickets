@@ -1,0 +1,10 @@
+{
+  "main": "super-ticket-papi.yaml",
+  "name": "p-api-tickets",
+  "groupId": "bfd2d521-2fd0-47fd-94e6-54ee65e93a77",
+  "assetId": "p-api-tickets",
+  "version": "1.0.0",
+  "classifier": "raml",
+  "tags": [],
+  "descriptorVersion": "1.0.0"
+}
