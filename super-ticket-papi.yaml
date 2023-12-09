@@ -3,7 +3,7 @@ info:
   title: Super Ticket PAPI
   description: Super Ticket PAPI allows you to check the movie ticket details and additional it also gives the details of the main character.
   version: v1
-host: super-ticket-papi.us-e2.cloudhub.io
+host: dev-super-ticket-papi.us-e2.cloudhub.io
 basePath: /api/v1
 schemes:
   - https
