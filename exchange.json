@@ -1,13 +1,13 @@
 {
   "main": "super-ticket-papi.yaml",
   "name": "p-api-tickets",
-  "groupId": "4f93fecb-1ecb-4fa3-8bcd-712e959455fd",
+  "groupId": "98119fd9-6064-434f-8635-f40adb35d0ce",
   "assetId": "p-api-tickets",
   "version": "1.0.0",
   "classifier": "oas",
   "tags": [],
   "descriptorVersion": "1.0.0",
-  "organizationId": "4f93fecb-1ecb-4fa3-8bcd-712e959455fd",
+  "organizationId": "98119fd9-6064-434f-8635-f40adb35d0ce",
   "apiVersion": "v1",
   "originalFormatVersion": "2.0"
 }
